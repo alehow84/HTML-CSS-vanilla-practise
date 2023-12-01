@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(179.7deg, rgb(248, 126, 126) -0.5%, rgb(251, 206, 143) 35.3%, rgb(184, 252, 233) 67.2%, rgb(118, 162, 229) 92.3%);
+    text-align: center;
+}
+#linked-heading {
+    display: block;
+    text-decoration: none;
+}
+#lazy-cat {
+    width: 300px;
+}
+#dancing-cat {
+    width: 200px;
+    padding: 20px 0px;
+}
+#cats-protection-logo {
+    border-radius: 45px;
+    margin-top: 60px;
+    border-style: dotted;
+
+}
+h1, h2, h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    font-size: 20px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+ol, ul{
+    text-align: justify;
+}
